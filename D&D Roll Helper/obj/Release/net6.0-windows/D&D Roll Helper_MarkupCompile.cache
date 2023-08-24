@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-Q:\Programowanie\DnDRollHelper\D&D Roll Helper\obj\Debug\net6.0-windows\
+Q:\Programowanie\DnDRollHelper\D&D Roll Helper\obj\Release\net6.0-windows\
 D_D_Roll_Helper
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 Q:\Programowanie\DnDRollHelper\D&D Roll Helper\App.xaml
 1-1644662438
 
