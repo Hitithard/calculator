@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Q:\\Programowanie\\D&D Roll Helper\\D&D Roll Helper\\D&D Roll Helper.csproj": {}
+    "Q:\\Programowanie\\DnDRollHelper\\D&D Roll Helper\\D&D Roll Helper.csproj": {}
   },
   "projects": {
-    "Q:\\Programowanie\\D&D Roll Helper\\D&D Roll Helper\\D&D Roll Helper.csproj": {
+    "Q:\\Programowanie\\DnDRollHelper\\D&D Roll Helper\\D&D Roll Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Q:\\Programowanie\\D&D Roll Helper\\D&D Roll Helper\\D&D Roll Helper.csproj",
+        "projectUniqueName": "Q:\\Programowanie\\DnDRollHelper\\D&D Roll Helper\\D&D Roll Helper.csproj",
         "projectName": "D&D Roll Helper",
-        "projectPath": "Q:\\Programowanie\\D&D Roll Helper\\D&D Roll Helper\\D&D Roll Helper.csproj",
+        "projectPath": "Q:\\Programowanie\\DnDRollHelper\\D&D Roll Helper\\D&D Roll Helper.csproj",
         "packagesPath": "C:\\Users\\48733\\.nuget\\packages\\",
-        "outputPath": "Q:\\Programowanie\\D&D Roll Helper\\D&D Roll Helper\\obj\\",
+        "outputPath": "Q:\\Programowanie\\DnDRollHelper\\D&D Roll Helper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

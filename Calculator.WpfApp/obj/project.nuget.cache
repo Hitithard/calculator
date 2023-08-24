@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tsD4wAbtfosTM5sYPTDXOc6OAebgqxznbq5wWZcIF6i988ILfICZZ+GysfXnflonRpg3QuqKo6XzbKYXYfBcCQ==",
+  "dgSpecHash": "yPuYD1rpMFdXV/TGEquoC1gLWUU7TdZmUT4KPlaEhmlvOZPxf7pk2aJBmkoFz/R5llw/AOVcBrcVCC22kI0QWQ==",
   "success": true,
-  "projectFilePath": "Q:\\Programowanie\\D&D Roll Helper\\Calculator.WpfApp\\Calculator.WpfApp.csproj",
+  "projectFilePath": "Q:\\Programowanie\\DnDRollHelper\\Calculator.WpfApp\\Calculator.WpfApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\48733\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
     "C:\\Users\\48733\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",

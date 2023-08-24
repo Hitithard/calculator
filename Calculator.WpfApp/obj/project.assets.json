@@ -193,11 +193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\Programowanie\\D&D Roll Helper\\Calculator.WpfApp\\Calculator.WpfApp.csproj",
+      "projectUniqueName": "Q:\\Programowanie\\DnDRollHelper\\Calculator.WpfApp\\Calculator.WpfApp.csproj",
       "projectName": "Calculator.WpfApp",
-      "projectPath": "Q:\\Programowanie\\D&D Roll Helper\\Calculator.WpfApp\\Calculator.WpfApp.csproj",
+      "projectPath": "Q:\\Programowanie\\DnDRollHelper\\Calculator.WpfApp\\Calculator.WpfApp.csproj",
       "packagesPath": "C:\\Users\\48733\\.nuget\\packages\\",
-      "outputPath": "Q:\\Programowanie\\D&D Roll Helper\\Calculator.WpfApp\\obj\\",
+      "outputPath": "Q:\\Programowanie\\DnDRollHelper\\Calculator.WpfApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
