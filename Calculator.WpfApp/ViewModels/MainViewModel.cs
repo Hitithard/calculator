@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Data;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -15,6 +16,7 @@ namespace Calculator.WpfApp.ViewModels
     {
         
         private List<string> _availableOperations = new List<string> { "+","-","/","*" };
+        private DataTable _dataTable = new DataTable();
 
 
         public MainViewModel() 
@@ -29,18 +31,33 @@ namespace Calculator.WpfApp.ViewModels
 
         private void GetResult(object obj)
         {
+            var result = _dataTable.Compute(ScreenVal.Replace(",","."), "");
+
+            ScreenVal = result.ToString();
         }
 
         private void ClearlastNum(object obj)
         {
+            if (!string.IsNullOrEmpty(ScreenVal))
+            {
+                ScreenVal = ScreenVal.Substring(0, ScreenVal.Length - 1);
+            }
+            if (string.IsNullOrEmpty(ScreenVal))
+            {
+                ScreenVal = "0";
+            }
         }
 
         private void ClearScreen(object obj)
         {
+            ScreenVal = "0";
         }
 
         private void AddOperation(object obj)
         {
+            var operation = obj as string;
+
+            ScreenVal += operation;
         }
 
         private void AddNumber(object obj)
